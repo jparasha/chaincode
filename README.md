@@ -1,2 +1,2 @@
 # chaincode
-Sampple chaincode For A Blockchain Demo
+Sampple chaincode For A Blockchain Demo (Personal)
